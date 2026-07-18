@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\bin\Debug\net10.0\FlyodTriangle.exe
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\bin\Debug\net10.0\FlyodTriangle.deps.json
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\bin\Debug\net10.0\FlyodTriangle.runtimeconfig.json
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\bin\Debug\net10.0\FlyodTriangle.dll
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\bin\Debug\net10.0\FlyodTriangle.pdb
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.AssemblyInfo.cs
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.dll
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\refint\FlyodTriangle.dll
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.pdb
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\FlyodTriangle.genruntimeconfig.cache
+C:\Users\Student\Downloads\TYIT R .net\FlyodTriangle\FlyodTriangle\obj\Debug\net10.0\ref\FlyodTriangle.dll
