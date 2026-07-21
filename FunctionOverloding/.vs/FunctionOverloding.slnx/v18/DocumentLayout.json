@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\TYIT R .net\\FunctionOverloding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A273F596-8C2F-30A4-5A94-6019290431EE}|FunctionOverloding\\FunctionOverloding.csproj|c:\\users\\student\\downloads\\tyit r .net\\functionoverloding\\functionoverloding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273F596-8C2F-30A4-5A94-6019290431EE}|FunctionOverloding\\FunctionOverloding.csproj|solutionrelative:functionoverloding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\TYIT R .net\\FunctionOverloding\\FunctionOverloding\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionOverloding\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\TYIT R .net\\FunctionOverloding\\FunctionOverloding\\Program.cs",
+              "RelativeToolTip": "FunctionOverloding\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvyYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T03:32:59.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
