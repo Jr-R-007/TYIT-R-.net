@@ -1,20 +1,32 @@
-def gcd_euclidean(a,b):
-    
-    while b !=0:
-        a,b=b,a%b
-    return abs(a)
-    
-    
-#Q3 Computation of greatest common divisor of A =35 and B =12
-#Variable a=35,b=12
-#iteration 1: 35% 12 = 11 -> a=12,b=11
-#iteration 2: 12% 11 = 1 -> a=11,b=1
-#iteration 3: 11% 1 = 0 -> a=1,b=0
-print(gcd_euclidean(35,12))
+#q1     Write a Python program implements and deonstrate the fundamental algebric properties of modular  congrurences.
+def is_congruent(a, b, m):
+    """Check if a= b (modulo m)"""
+    return (a % m) == (b % m)
 
+#Setup variables for demonstration
+m=7
+a,b= 15,1
+c,d=22,1
+print (f" is 15= 1 (mod 7)? {is_congruent(a,b,m)}") #True(15%7==1%7)
+print (f" is 22= 1 (mod 7)? {is_congruent(c,d,m)}") #True(22%7==1%7)
 
-#Q4 Computation of least common multiple of A =20 and B =100
-#Variable a=20,b=100
-#iteration 1: 20%100= 20 -> a=100,b=20
-#iteration 2: 100% 20 = 0 -> a=20,b=0
-print(gcd_euclidean(20,100))
+#1.Reflexive property: a = a (mod m)
+print(f"\n Reflexive property: {is_congruent(b,a,m)}")
+
+#2.Symmetric property:  if a = b then b=a(mod m)
+print(f"\n Symmetric property: {is_congruent(b,a,m)}")
+
+#3.Transitive property:  if a = b and b = c then a = c (mod m)
+#Since 15=1 and 1=22(mod7) then 15=22(mod7)
+print(f"\n Transitive property: {is_congruent(a,c,m)}")
+
+#4.Addition property: if a + c  = b + d (mod m) 
+print(f"\n Addition property: {is_congruent(a+c,b+d,m)}")
+
+#5.Subtraction property: if a - c  = b - d (mod m)
+print(f"\n Subtraction property: {is_congruent(a-c,b-d,m)}")    
+
+#6.Multiplication property: if a * c  = b * d (mod m)
+print(f"\n Multiplication property: {is_congruent(a*c,b*d,m)}")
+
+#    
