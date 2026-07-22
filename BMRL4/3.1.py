@@ -29,4 +29,7 @@ print(f"\n Subtraction property: {is_congruent(a-c,b-d,m)}")
 #6.Multiplication property: if a * c  = b * d (mod m)
 print(f"\n Multiplication property: {is_congruent(a*c,b*d,m)}")
 
-#    
+#7.Power property: if a^k  = b^k (mod m)
+k=3
+print(f"\n Power property: {is_congruent(a**k,b**k,m)}")
+    
