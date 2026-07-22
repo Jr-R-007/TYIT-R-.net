@@ -1,7 +1,7 @@
 #Computation of greatest common divisor of
 #1)(60,15)
-#(35,12)
-#(252,105)
+#2)(35,12)
+#3)(252,105)
 #using Euclid's algorithm
 
 def gcd_with_steps(a,b):
