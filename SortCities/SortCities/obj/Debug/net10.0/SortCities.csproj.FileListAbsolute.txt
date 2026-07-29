@@ -1,0 +1,15 @@
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\bin\Debug\net10.0\SortCities.exe
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\bin\Debug\net10.0\SortCities.deps.json
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\bin\Debug\net10.0\SortCities.runtimeconfig.json
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\bin\Debug\net10.0\SortCities.dll
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\bin\Debug\net10.0\SortCities.pdb
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.AssemblyInfo.cs
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.sourcelink.json
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.dll
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\refint\SortCities.dll
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.pdb
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\SortCities.genruntimeconfig.cache
+C:\Users\Student\Downloads\TYIT R .net\SortCities\SortCities\obj\Debug\net10.0\ref\SortCities.dll
