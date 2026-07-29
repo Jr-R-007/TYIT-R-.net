@@ -1,0 +1,15 @@
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.AssemblyInfo.cs
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.sourcelink.json
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\bin\Debug\net10.0\FunctionOverloding.exe
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\bin\Debug\net10.0\FunctionOverloding.deps.json
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\bin\Debug\net10.0\FunctionOverloding.runtimeconfig.json
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\bin\Debug\net10.0\FunctionOverloding.dll
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\bin\Debug\net10.0\FunctionOverloding.pdb
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.dll
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\refint\FunctionOverloding.dll
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.pdb
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\FunctionOverloding.genruntimeconfig.cache
+C:\Users\Student\Downloads\TYIT R .net\FunctionOverloding\FunctionOverloding\obj\Debug\net10.0\ref\FunctionOverloding.dll
