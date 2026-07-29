@@ -1,0 +1,15 @@
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\bin\Debug\net10.0\ConstructorOverloading.exe
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\bin\Debug\net10.0\ConstructorOverloading.deps.json
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\bin\Debug\net10.0\ConstructorOverloading.runtimeconfig.json
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\bin\Debug\net10.0\ConstructorOverloading.dll
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\bin\Debug\net10.0\ConstructorOverloading.pdb
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.AssemblyInfo.cs
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.sourcelink.json
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.dll
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\refint\ConstructorOverloading.dll
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.pdb
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ConstructorOverloading.genruntimeconfig.cache
+C:\Users\Student\Downloads\TYIT R .net\ConstructorOverloading\ConstructorOverloading\obj\Debug\net10.0\ref\ConstructorOverloading.dll
